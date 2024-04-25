@@ -1,0 +1,47 @@
+body {
+    background-color: darkgreen;
+  }
+  
+  .Nav,
+  .Section,
+  .Footer,
+  .PHead {
+    background-color: hwb(77 71% 7% / 0.744);
+    padding: 25px;
+    margin: 10px;
+  }
+   
+  .Main,
+  .ArticleHead {
+    background-color: hwb(77 71% 7% / 0.744);
+    padding: 23px;
+    height: 30px;
+    width: 100;
+    margin: 10px;
+  }
+  
+  .Aside {
+    display: flex;
+    background-color: hwb(77 71% 7% / 0.744);
+    padding: 62px;
+    margin: 10px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .Article {
+    background-color: hwb(77 71% 7% / 0.744);
+    padding: 20px;
+    margin: 5px;
+  }
+  
+  .aside-section {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  
